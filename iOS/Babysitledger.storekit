@@ -1,0 +1,29 @@
+{
+  "identifier": "babysitledger",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "babysitledger_pro",
+      "localizations": [
+        {
+          "description": "Unlocks rate history and annual childcare cost summary for taxes.",
+          "displayName": "Babysitledger Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "babysitledger_pro",
+      "referenceName": "Babysitledger Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
